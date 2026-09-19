@@ -6,9 +6,9 @@ __pycache__/
 *.pyo
 
 .DS_Store
-
 *.keras
 
 violations/
 
 data/
+screenshots/
