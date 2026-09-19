@@ -1,0 +1,14 @@
+venv/
+venv-python314/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+
+*.keras
+
+violations/
+
+data/
